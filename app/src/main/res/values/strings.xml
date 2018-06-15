@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HeRV</string>
+    <string name="title_devices">BLE Device Scan</string>
+
+    <string name="text_monitorswitch">Heart Monitor</string>
+    <string name="text_monitoroff">Off</string>
+    <string name="text_monitornobluetooth">Not available</string>
+    <string name="text_monitorconnecting">Connecting...</string>
+    <string name="text_activitystart">Start activity</string>
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="posture_lie">Lie down</string>
+    <string name="posture_sit"> Sit </string>
+    <string name="posture_stand"> Stand </string>
+
+    <string name="menu_scan"> Scan </string>
+    <string name="menu_stop"> Stop </string>
+    <string name="unknown_device"> Unknown device </string>
+
+
+    <string name="notification_running">Heart rate monitor running</string>
+    <string name="notification_disconnected">Heart rate sensor disconnected. Trying to reconnect.</string>
+    <string name="notification_connecting">Heart rate sensor found - monitor connecting</string>
+
+    <string name="no_device_paired">no device paired</string>
+    <string name="pair_device">Pair device</string>
+
+    <string name="session">Activity session</string>
+    <string name="session_started">Activity started</string>
+    <string name="session_stopped">Start new activity</string>
+
+    <string name="paired_device">paired</string>
+    <string name="save_session_started">started</string>
+    <string name="save_activity">activity</string>
+    <string name="save_posture">posture</string>
+
+    <string name="signout">Sign out</string>
+    <string name="no_user"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

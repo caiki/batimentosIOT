@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="postures">
+        <item>lying down</item>
+        <item>sitting</item>
+        <item>standing</item>
+    </string-array>
+
+    <string-array name="activity_categories_names">
+        <item>sleep</item>
+        <item>eat</item>
+        <item>movement</item>
+        <item>drive</item>
+        <item>exercise-low</item>
+        <item>exercise-high</item>
+        <item>household-chores</item>
+        <item>focused-active</item>
+        <item>focused-passive</item>
+        <item>leisure-active</item>
+        <item>leisure-passive</item>
+        <item>rest-active</item>
+        <item>rest-passive</item>
+        <item>relax</item>
+        <item>drive</item>
+    </string-array>
+
+    <!-- Values to be shown to the user in spinner. Must match the positions in activity_categories_names !-->
+    <string-array name="activity_categories_descriptors">
+        <item>Sleeping</item>
+        <item>Eating</item>
+        <item>Moving</item>
+        <item>Driving</item>
+        <item>Low intensity exercise</item>
+        <item>High intensity exercise</item>
+        <item>Household chores</item>
+        <item>Work (active) - Writing, drawing, typing...</item>
+        <item>Work (passive) - Reading, watching lectures, attending meetings...</item>
+        <item>Leisure (active) - Playing, singing...</item>
+        <item>Leisure (passive) - Watching TV, reading news, social media...</item>
+        <item>Rest (active) - Talking, brushing teeth...</item>
+        <item>Rest (passive) - Waiting on queues, public transport, car rides... </item>
+        <item>Relaxation - meditation, music listening...</item>
+    </string-array>
+
+</resources>
